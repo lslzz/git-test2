@@ -16,5 +16,6 @@ public class GitTest  {
         System.out.println("hello git04 by hot-fix !");
         System.out.println("hello git05 by master !");
         System.out.println("hello git04 by hot-fix !");
+        System.out.println("hello git06 by github !");
     }
 }
